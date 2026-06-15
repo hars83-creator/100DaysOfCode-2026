@@ -1,7 +1,7 @@
 # Executables
 *.out
 *.exe
-
+question_[0-9]
 
 # Object files
 *.o

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Q1 {
     public static boolean isPalindrome(String s) {
         int left = 0;
         int right = s.length() - 1;
